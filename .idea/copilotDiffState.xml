@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CopilotDiffPersistence">
+    <option name="pendingDiffs">
+      <map>
+        <entry key="$PROJECT_DIR$/README.md">
+          <value>
+            <PendingDiffInfo>
+              <option name="filePath" value="$PROJECT_DIR$/README.md" />
+              <option name="originalContent" value="# la_herencia_en_poo&#10;" />
+              <option name="updatedContent" value="# la_herencia_en_poo&#10;&#10;Este proyecto es una demostración de los conceptos de herencia en la Programación Orientada a Objetos (POO) usando Java.&#10;&#10;## Estructura del proyecto&#10;&#10;- `src/`: Contiene el código fuente del proyecto.&#10;  - `AppFiguras.java`: Clase principal que ejecuta el programa y muestra el uso de la herencia entre clases relacionadas con figuras geométricas.&#10;&#10;## ¿Cómo funciona?&#10;&#10;El proyecto implementa una jerarquía de clases para figuras geométricas (por ejemplo, círculo, cuadrado, triángulo), donde cada figura hereda atributos y métodos de una clase base común. La clase principal (`AppFiguras.java`) crea instancias de estas figuras y demuestra el uso de la herencia para calcular áreas, perímetros y mostrar información de cada figura.&#10;&#10;## Ejecución&#10;&#10;1. Abre el proyecto en tu IDE de preferencia (por ejemplo, IntelliJ IDEA o Eclipse).&#10;2. Compila el archivo `AppFiguras.java` ubicado en la carpeta `src`.&#10;3. Ejecuta la clase principal para ver el funcionamiento del programa.&#10;&#10;## Requisitos&#10;&#10;- Java JDK 8 o superior&#10;&#10;## Autor&#10;&#10;- [Tu Nombre Aquí]" />
+            </PendingDiffInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
